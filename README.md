@@ -3,4 +3,4 @@
 A new Flutter project for simple furniture app
 
 ### Demo
-![gif](demo.gif)
+<img src="./demo.gif" height="480px">
